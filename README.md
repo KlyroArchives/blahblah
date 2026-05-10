@@ -1,3 +1,3 @@
-# blahblah ginabd
-ilovewatermelon
-njknig
+# New Project
+Bot Coding
+In Progress
